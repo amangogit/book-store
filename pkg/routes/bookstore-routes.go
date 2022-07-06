@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"github.com/amango/book-store/pkg/controllers"
+	"github.com/amangogit/book-store/pkg/controllers"
 	"github.com/gorilla/mux"
 )
 

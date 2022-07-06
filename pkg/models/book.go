@@ -2,7 +2,7 @@ package models
 
 import (
 	"github.com/jinzhu/gorm"
-	"github.com/amango/book-store/pkg/config"
+	"github.com/amangogit/book-store/pkg/config"
 )
 
 var db *gorm.DB
